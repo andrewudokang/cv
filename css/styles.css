@@ -26,7 +26,7 @@ p{
 }
 hr{
   border-bottom: none;
-  border-top: dotted gray 5px;
+  border-top: dotted #EAF6F6 5px;
   width: 5%;
   margin: 100px auto;
 
