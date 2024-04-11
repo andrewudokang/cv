@@ -1,0 +1,126 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+h2{
+  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border-bottom: none;
+  border-top: dotted gray 5px;
+  width: 5%;
+  margin: 100px auto;
+
+}
+.contact-btn{
+  text-decoration: none;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.btn{
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  border-style: none;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover{
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+.pro{
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 150px;
+}
+.profile-description{
+  width: 40%;
+  margin: auto;
+}
+.contact-me{
+  margin: 100px auto;
+}
+.contact-head{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  margin: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+.footer-link:hover{
+  color: white;
+}
+.footer-text{
+  position: relative;
+  color: #EAF6F6;
+  margin-top: 0;
+  font-family: "Montserrat", sans-serif;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profile-img{
+  margin-top: 50px;
+  border-radius: 50%;
+  height: 250px;
+  width: 200px;
+}
+.computer-img{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cad-img{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
